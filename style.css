@@ -81,3 +81,21 @@ main{
     margin: 5px;
     border-radius: 5px;
 }
+
+.users{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.user{
+    margin: 5px;
+}
+
+.arrow{
+    align-self: center;
+    text-align: center;
+}
+
+.arrow:last-of-type i{
+    color: #2ebaff;
+}
